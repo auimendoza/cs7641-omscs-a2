@@ -1,6 +1,11 @@
+Assignment 2: Randomized Optimization
+CS7641 - Machine Learning
+OMSCS Fall 2018
+
 How to run scripts:
 Requirements: 
 1. unix-like system
+
 2. jython.jar
 3. ABAGAIL.jar built from pushkar's latest code from https://github.com/pushkar/ABAGAIL
 
